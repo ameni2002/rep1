@@ -1,1 +1,4 @@
-dgfjhkjlhjb
+to merge branches: git merge
+to add files: git add --all
+adding new branch: git checkout -b branchname
+changing the access to the new branch: git checkout branchname
